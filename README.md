@@ -22,7 +22,7 @@ Font Awesome: Utilizado para ícones sociais e de diferenciais (<i class="fas fa
 Para visualizar este site no seu navegador, siga estes passos:
 
 Clone este repositório para o seu computador:
-git clone https://github.com/Gean-Duffeck/RugidoDoMotor.git
+git clone https://github.com/SeuUsuario/RugidoDoMotor.git
 
 Navegue até a pasta do projeto:
 cd RugidoDoMotor
