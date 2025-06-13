@@ -3,15 +3,13 @@ Este projeto é um website institucional simples, desenvolvido em HTML e CSS, pa
 Ele apresenta os serviços da oficina, seus diferenciais, informações de contato e uma forma fácil para os clientes agendarem avaliações.
 
 🚀 Funcionalidades
-Navegação Clara: Menu superior com links para as principais seções da página (Início, Serviços, Diferenciais, Contato).
-Banner Intuitivo: Uma seção de boas-vindas com uma mensagem convidativa e um botão de "Agende uma Avaliação" que direciona para o WhatsApp (exemplo).
-Sobre a Oficina: Uma seção detalhada sobre a história e a missão da Rugido do Motor, destacando sua experiência e compromisso.
-Principais Serviços em Destaque: Apresenta visualmente os três serviços mais importantes (Revisão Completa, Sistema de Freios, Suspensão e Alinhamento) com imagens e descrições concisas.
-Tabela de Serviços Detalhada: Uma tabela organizada com diversos serviços oferecidos, descrições resumidas e preços "a partir de", oferecendo transparência ao cliente.
-Diferenciais da Oficina: Lista os motivos pelos quais os clientes devem escolher a Rugido do Motor, como profissionais certificados, equipamentos de ponta, orçamento transparente e uma sala de espera confortável.
-Informações de Contato Completas: No rodapé, o cliente encontra o endereço, telefone e e-mail da oficina.
-Links para Redes Sociais: Integração com Instagram, Facebook e um link para o Google Maps, facilitando a interação e localização.
-Direitos Autorais e Políticas: Rodapé com informações de copyright e links para termos de uso e política de privacidade (placeholder).
+Navegação Simplificada: Menu fácil de usar para acessar todas as seções importantes.
+Apresentação Atraente: Banner de boas-vindas com chamada para ação, convidando a agendar avaliações.
+Informações Essenciais: Seções dedicadas à história e missão da oficina (Sobre a Oficina), destacando sua experiência e compromisso.
+Serviços em Destaque e Detalhe: Apresenta os principais serviços de forma visual e uma tabela completa com descrições e preços para transparência.
+Diferenciais Competitivos: Lista os pontos fortes da oficina, como equipe qualificada, equipamentos modernos e um ambiente confortável para o cliente.
+Contato Direto: Todas as informações de contato (endereço, telefone, e-mail) são facilmente acessíveis no rodapé.
+Conectividade Social: Links diretos para as redes sociais (Instagram, Facebook) e localização no mapa.
 
 🛠️ Tecnologias Utilizadas
 HTML5: Para a estrutura e conteúdo da página web.
